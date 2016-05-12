@@ -4,7 +4,7 @@ exports.port = process.env.PORT || 3000;
 exports.mongodb = {
   uri: process.env.MONGOLAB_URI || process.env.MONGOHQ_URL || 'mongodb://brad:123456@ds025409.mlab.com:25409/comeventsapp'
 };
-exports.companyName = 'Eduonix';
+exports.companyName = 'Himanshu Gupta';
 exports.projectName = 'ComEvents';
 exports.systemEmail = 'techguyinfo@gmail.com';
 exports.cryptoKey = 'k3yb0ardc4t';
